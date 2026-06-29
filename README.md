@@ -73,9 +73,8 @@ Urban areas face rapid growth in vehicle numbers, causing:
 ## 🛠️ Tech Stack
 
 - **Language**: Python 3.9+
-- **Deep Learning**: TensorFlow/Keras (MobileNetV2)
+- **Deep Learning**: MobileNetV2
 - **ML Classification**: XGBoost
-- **Image Processing**: OpenCV
 - **Data Processing**: NumPy, Pandas, Scikit-learn
 - **Dashboard**: Streamlit
 - **Visualization**: Matplotlib, Seaborn
@@ -150,7 +149,7 @@ streamlit run streamlit_app.py
 - **Accuracy**: 88-91%
 - **Classes**: Low, Moderate, High
 - **Data Augmentation**: 6x expansion per image
-
+-MobileNetV2 and XGBoost combined approach
 ## 🔮 Future Enhancements
 
 - [ ] Real-time sensor integration
@@ -171,7 +170,7 @@ MIT License - see [LICENSE](LICENSE) file
 
 ## 🙏 Acknowledgments
 
-- TensorFlow & Keras for MobileNetV2
+-  MobileNetV2
 - XGBoost for gradient boosting
 - Streamlit for interactive dashboards
 
